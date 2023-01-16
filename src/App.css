@@ -1,0 +1,12 @@
+.button {
+  background-color: #0c817d; /* Green */
+  border-color: black;
+  color: rgb(23, 5, 5);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Courier New', Courier, monospace;
+  display: inline-block;
+  border-radius: 12px;
+  font-size: 16px;
+}
